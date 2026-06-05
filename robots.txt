@@ -1,0 +1,9 @@
+# robots.txt – BAMBI Buddhist Initiative
+# https://www.bambi.org.au/
+
+# Allow all crawlers full access
+User-agent: *
+Allow: /
+
+# Point to sitemap
+Sitemap: https://www.bambi.org.au/sitemap.xml
