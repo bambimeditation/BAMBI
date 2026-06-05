@@ -4,7 +4,7 @@
 
   <!-- Homepage -->
   <url>
-    <loc>https://www.bambi.org.au/</loc>
+    <loc>https://www.bambimeditation.com/</loc>
     <lastmod>2026-06-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
@@ -12,7 +12,7 @@
 
   <!-- Schedule section -->
   <url>
-    <loc>https://www.bambi.org.au/#schedule</loc>
+    <loc>https://www.bambimeditation.com/#schedule</loc>
     <lastmod>2026-06-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
@@ -20,7 +20,7 @@
 
   <!-- About section -->
   <url>
-    <loc>https://www.bambi.org.au/#about</loc>
+    <loc>https://www.bambimeditation.com/#about</loc>
     <lastmod>2026-06-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -28,7 +28,7 @@
 
   <!-- Monastery & Monks section -->
   <url>
-    <loc>https://www.bambi.org.au/#monastery</loc>
+    <loc>https://www.bambimeditation.com/#monastery</loc>
     <lastmod>2026-06-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -36,7 +36,7 @@
 
   <!-- Contact section -->
   <url>
-    <loc>https://www.bambi.org.au/#contact</loc>
+    <loc>https://www.bambimeditation.com/#contact</loc>
     <lastmod>2026-06-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
@@ -44,7 +44,7 @@
 
   <!-- Donate / Support section -->
   <url>
-    <loc>https://www.bambi.org.au/#donate</loc>
+    <loc>https://www.bambimeditation.com/#donate</loc>
     <lastmod>2026-06-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
