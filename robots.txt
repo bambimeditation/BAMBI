@@ -1,9 +1,0 @@
-# robots.txt – BAMBI Buddhist Initiative
-# https://www.bambimeditation.com/
-
-# Allow all crawlers full access
-User-agent: *
-Allow: /
-
-# Point to sitemap
-Sitemap: https://www.bambimeditation.com/sitemap.xml
